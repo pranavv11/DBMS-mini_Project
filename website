@@ -104,8 +104,8 @@
 
       <!-- Right box for buttons -->
       <div class="right">
-        <button class="btn">Call Us</button>
-        <button class="btn">Email Us</button>
+        <button class="btn">Fitness</button>
+        <button class="btn">More</button>
       </div>
       <div class="paragraph">
         <p>
